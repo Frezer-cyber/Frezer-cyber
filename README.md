@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frezer-cyber
-- 👀 I’m interested in information technology security
-- 🌱 I’m currently learning Computer scince,Major in Cybersecurity engineering.
-- 💞️ I’m looking to collaborate on in security operation team.
+- 👀 I’m interested in IT security
+- 🌱 I’m currently Studying Computer Scince,Major in Cybersecurity engineering.
+- 💞️ I’m looking to collaborate with both offensive and defensive security operation team.
 - 📫 How to reach me ...
 
 <!---
